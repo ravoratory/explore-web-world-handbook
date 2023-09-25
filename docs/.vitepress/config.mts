@@ -3,7 +3,7 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "Exploring the World of the Web",
-  description: "basic web engineer  ",
+  description: "basic web engineer",
   base: "/explore-web-world-handbook",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config

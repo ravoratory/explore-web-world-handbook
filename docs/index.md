@@ -5,20 +5,29 @@ layout: home
 hero:
   name: "Exploring the World of the Web"
   text: "Webエンジニアとしての基礎的な素養を身につける"
-  tagline: 講座一覧
   actions:
-    - theme: brand
-      text: Front-end Course
-      link: /markdown-examples
-    - theme: brand
-      text: Back-end Course
-      link: /api-examples
+    - thene: brand
+      text: Getting Started
+      link: /programming/
+    - theme: alt
+      text: View on Github
+      link: https://github.com/ravoratory/explore-web-world-handbook
 features:
-  - title: React
-    details: Reactはいいぞ
-  - title: Django
-    details: Djangoはいいぞ
-  - title: git
-    details: gitはいいぞ
+  - title: Basic Programming
+    details: プログラミングの基礎を学びます。
+    link: /programming/
+  - title: Basic Web
+    details: ステータスコードやURLなどWebの基本的事項を学びます。
+    link: /web/
+  - title: Frontend
+    details: frontendは(最終的には)Next.jsを使いますが、マルバツゲームアプリを通じてDOMの構成やレイアウトの基礎を学びます。
+    link: /frontend/
+  - title: Backend
+    details: backendにはDjangoを使います。シンプルなブログサイトを構築してバックエンドの基礎を学びます。
+    link: /backend/
+  - title: Fullstack
+    details: Instagramのクローンアプリを作成することで一人でものづくりができるエンジニアを目指します。
+    link: /fullstack/
+
 ---
 
