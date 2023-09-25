@@ -4,7 +4,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "Exploring the World of the Web",
   description: "basic web engineer  ",
-  base: "explore-web-world-handbook",
+  base: "/explore-web-world-handbook",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [{ text: "Home", link: "/" }],
