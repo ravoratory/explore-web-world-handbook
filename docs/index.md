@@ -4,8 +4,8 @@ layout: home
 
 hero:
   name: "Exploring the World of the Web"
-  text: "Navigating in the Midst of Constant Change"
-  tagline: just do it!
+  text: "Webエンジニアとしての基礎的な素養を身につける"
+  tagline: 講座一覧
   actions:
     - theme: brand
       text: Front-end Course
