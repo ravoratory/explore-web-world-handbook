@@ -3,7 +3,7 @@
 layout: home
 
 hero:
-  name: "Exploring the World of the Web"
+  name: "Exploring the Web World"
   text: "Webエンジニアとしての基礎的な素養を身につける"
   actions:
     - thene: brand
@@ -16,6 +16,9 @@ features:
   - title: Basic Programming
     details: プログラミングの基礎を学びます。
     link: /programming/
+  - title: Basic Git
+    details: Gitの基礎を学びます。
+    link: /git/
   - title: Basic Web
     details: ステータスコードやURLなどWebの基本的事項を学びます。
     link: /web/
@@ -28,6 +31,5 @@ features:
   - title: Fullstack
     details: Instagramのクローンアプリを作成することで一人でものづくりができるエンジニアを目指します。
     link: /fullstack/
-
 ---
 

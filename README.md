@@ -1,6 +1,6 @@
 # Explore-world-web-handbook
 
-[PlayGround](https://playground-universe.com/)内部向け「駆け出しエンジニアになるための講習会」用資料。
+[PlayGround](https://playground-universe.com/)内部向け「駆け出しWebエンジニアになるための講習会」用資料。
 
 ## 注意
 

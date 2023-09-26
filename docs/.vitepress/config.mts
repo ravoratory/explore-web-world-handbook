@@ -1,28 +1,23 @@
 import { defineConfig } from 'vitepress'
 
+import programmingSidebarItems from './programming/config.mjs';
+
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "Exploring the World of the Web",
+  title: "Exploring the Web World",
   description: "basic web engineer",
   base: "/explore-web-world-handbook",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [{ text: "Home", link: "/" }],
 
-    sidebar: [
-      {
-        text: "Examples",
-        items: [
-          { text: "Markdown Examples", link: "/markdown-examples" },
-          { text: "Runtime API Examples", link: "/api-examples" },
-        ],
-      },
-      {
-        text: "Example2",
-        items: [{ text: "AAAAAAAAa", link: "/aaaa" }],
-      },
-    ],
-
+    sidebar: {
+      "/programming/": programmingSidebarItems,
+      "/web/": [],
+      "/frontend/": [{ text: "test" }],
+      "/backend/": [],
+      "/fullstack/": [],
+    },
     socialLinks: [
       {
         icon: "github",
