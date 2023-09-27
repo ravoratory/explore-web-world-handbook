@@ -33,6 +33,17 @@ const programmingSidebarItems = [
         link: "/programming/section1/array",
       },
       {
+        text: "for文、if文",
+        link: "/programming/section1/for-if",
+      },
+      {
+        text: "クラス",
+        link: "/programming/section1/class"
+      },
+      {
+        text: "モジュール"
+      },
+      {
         text: "おわりに",
         link: "/programming/section1/end",
       },
@@ -52,9 +63,6 @@ const programmingSidebarItems = [
       },
       {
         text: "ディクショナリ",
-      },
-      {
-        text: "クラス",
       },
       {
         text: "おわりに",
