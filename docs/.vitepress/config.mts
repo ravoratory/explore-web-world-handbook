@@ -14,7 +14,7 @@ export default defineConfig({
     sidebar: {
       "/programming/": programmingSidebarItems,
       "/web/": [],
-      "/frontend/": [{ text: "test" }],
+      "/frontend/": [],
       "/backend/": [],
       "/fullstack/": [],
     },
