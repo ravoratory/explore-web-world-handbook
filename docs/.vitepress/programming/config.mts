@@ -21,6 +21,9 @@ const programmingSidebarItems = [
       }, {
         "text": "関数",
         "link": "/programming/section1/function"
+      }, {
+        "text": "配列",
+        "link": "/programming/section1/array"
       }
     ]
   }
