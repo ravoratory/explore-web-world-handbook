@@ -38,10 +38,11 @@ const programmingSidebarItems = [
       },
       {
         text: "クラス",
-        link: "/programming/section1/class"
+        link: "/programming/section1/class",
       },
       {
-        text: "モジュール"
+        text: "モジュール",
+        link: "/programming/section1/module",
       },
       {
         text: "おわりに",
@@ -56,13 +57,15 @@ const programmingSidebarItems = [
     items: [
       {
         text: "スタックとキュー",
-        link: "",
+        link: "/programming/section2/stack-queue",
       },
       {
         text: "タプル",
+        link: "/programming/section2/tuple",
       },
       {
         text: "ディクショナリ",
+        link: "/programming/section2/dict",
       },
       {
         text: "おわりに",
