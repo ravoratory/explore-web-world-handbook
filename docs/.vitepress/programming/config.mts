@@ -25,8 +25,12 @@ const programmingSidebarItems = [
         link: "/programming/section1/calc",
       },
       {
-        text: "関数",
+        text: "関数その1",
         link: "/programming/section1/function",
+      },
+      {
+        text: "関数その2",
+        link: "/programming/section1/function2",
       },
       {
         text: "配列",
