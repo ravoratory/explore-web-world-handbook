@@ -83,6 +83,22 @@ const programmingSidebarItems = [
     link: "/programming/section3/",
     items: [
       {
+        text: "変数名",
+        link: "/programming/section3/naming"
+      },
+      {
+        text: "コメント",
+        link: "/programming/section3/comment"
+      },
+      {
+        text: "原則",
+        link: "/programming/section3/principle"
+      },
+      {
+        text: "テクニック",
+        link: "/programming/section3/technic"
+      },
+      {
         text: "おわりに",
         link: "/programming/section3/books",
       },
