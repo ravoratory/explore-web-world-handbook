@@ -1,6 +1,7 @@
 import { defineConfig } from 'vitepress'
 
-import programmingSidebarItems from './programming/config.mjs';
+import programmingSidebarItems from './config/programming/config.mjs';
+import gitSidebarItems from './config/git/config.mjs';
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
@@ -13,6 +14,7 @@ export default defineConfig({
 
     sidebar: {
       "/programming/": programmingSidebarItems,
+      "/git/": gitSidebarItems,
       "/web/": [],
       "/frontend/": [],
       "/backend/": [],
