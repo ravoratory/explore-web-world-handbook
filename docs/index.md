@@ -22,6 +22,9 @@ features:
   - title: Basic Web
     details: ステータスコードやURLなどWebの基本的事項を学びます。
     link: /web/
+  - title: Basic Network
+    details: ネットワークについて軽く触れます。
+    link: /network/
   - title: Frontend
     details: frontendは(最終的には)Next.jsを使いますが、マルバツゲームアプリを通じてDOMの構成やレイアウトの基礎を学びます。
     link: /frontend/
@@ -31,5 +34,7 @@ features:
   - title: Fullstack
     details: Instagramのクローンアプリを作成することで一人でものづくりができるエンジニアを目指します。
     link: /fullstack/
+  - title: GraphQL
+    details: おまけです。興味がある人のみ。
 ---
 

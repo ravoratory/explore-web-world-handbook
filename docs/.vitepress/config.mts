@@ -3,6 +3,7 @@ import { defineConfig } from 'vitepress'
 import programmingSidebarItems from './config/programming/config.mjs';
 import gitSidebarItems from './config/git/config.mjs';
 import webSidebarItems from './config/web/config.mjs';
+import networkSidebarItems from './config/network/config.mjs';
 import frontendSidebarItems from './config/frontend/config.mjs';
 import backendSidebarItems from './config/backend/config.mjs';
 import fullstackSidebarItems from './config/fullstack/config.mjs';
@@ -20,6 +21,7 @@ export default defineConfig({
       "/programming/": programmingSidebarItems,
       "/git/": gitSidebarItems,
       "/web/": webSidebarItems,
+      "/network/": networkSidebarItems,
       "/frontend/": frontendSidebarItems,
       "/backend/": backendSidebarItems,
       "/fullstack/": fullstackSidebarItems,

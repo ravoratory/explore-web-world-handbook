@@ -17,7 +17,6 @@
 - [達人プログラマー](https://www.ohmsha.co.jp/book/9784274226298/)
 - [Webブラウザセキュリティ](https://www.lambdanote.com/products/wbs)
 - [Clean Architecture](https://www.kadokawa.co.jp/product/301806000678/)
-- [Real World HTTP](https://www.oreilly.co.jp/books/9784873119038/)
 
 ここまで本当にお疲れ様でした。しかし、エンジニアとしての道のりはまだまだ長いです。そして次にこのドキュメントを加筆・修正し、講習会を開くのはあなたです。あなたがどんな道に進むかはわかりませんが、それがうまくいきますよう。
 
