@@ -16,20 +16,19 @@ features:
   - title: Basic Programming
     details: プログラミングの基礎を学びます。
     link: /programming/
+  - title: Basic Linux
+    details: Linux(特にUbuntu)環境における基本事項を学びます。
   - title: Basic Git
     details: Gitの基礎を学びます。
     link: /git/
   - title: Basic Web
     details: ステータスコードやURLなどWebの基本的事項を学びます。
     link: /web/
-  - title: Basic Network
-    details: ネットワークについて軽く触れます。
-    link: /network/
   - title: Frontend
-    details: frontendは(最終的には)Next.jsを使いますが、マルバツゲームアプリを通じてDOMの構成やレイアウトの基礎を学びます。
+    details: マルバツゲームアプリを通じてDOMの構成やレイアウトの基礎を学びます。
     link: /frontend/
   - title: Backend
-    details: backendにはDjangoを使います。シンプルなブログサイトを構築してバックエンドの基礎を学びます。
+    details: シンプルなブログサイトを構築してバックエンドの基礎を学びます。
     link: /backend/
   - title: Fullstack
     details: Instagramのクローンアプリを作成することで一人でものづくりができるエンジニアを目指します。
