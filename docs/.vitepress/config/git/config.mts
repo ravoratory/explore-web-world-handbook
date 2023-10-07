@@ -17,7 +17,7 @@ const gitSidebarItems = [
   },
   {
     text: "おわりに",
-    link: "/git/end.md"
+    link: "/git/end"
   }
 ];
 
