@@ -72,6 +72,10 @@ const programmingSidebarItems = [
         link: "/programming/section2/dict",
       },
       {
+        text: "正規表現",
+        link: "/programming/section2/regex"
+      },
+      {
         text: "おわりに",
         link: "/programming/section2/end",
       },
