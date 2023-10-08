@@ -18,21 +18,18 @@ features:
     link: /programming/
   - title: Basic Linux
     details: Linux(特にUbuntu)環境における基本事項を学びます。
+    link: /linux/
   - title: Basic Git
     details: Gitの基礎を学びます。
     link: /git/
-  - title: Basic Web
+  - title: Basic Web(WIP)
     details: ステータスコードやURLなどWebの基本的事項を学びます。
-    link: /web/
-  - title: Frontend
+  - title: Frontend(WIP)
     details: マルバツゲームアプリを通じてDOMの構成やレイアウトの基礎を学びます。
-    link: /frontend/
-  - title: Backend
+  - title: Backend(WIP)
     details: シンプルなブログサイトを構築してバックエンドの基礎を学びます。
-    link: /backend/
-  - title: Fullstack
+  - title: Fullstack(WIP)
     details: Instagramのクローンアプリを作成することで一人でものづくりができるエンジニアを目指します。
-    link: /fullstack/
   - title: GraphQL
     details: おまけです。興味がある人のみ。
 ---
