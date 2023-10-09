@@ -22,8 +22,9 @@ features:
   - title: Basic Git
     details: Gitの基礎を学びます。
     link: /git/
-  - title: Basic Web(WIP)
+  - title: Basic Web
     details: ステータスコードやURLなどWebの基本的事項を学びます。
+    link: /web/
   - title: Frontend(WIP)
     details: マルバツゲームアプリを通じてDOMの構成やレイアウトの基礎を学びます。
   - title: Backend(WIP)
