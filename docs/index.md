@@ -31,7 +31,7 @@ features:
     details: シンプルなブログサイトを構築してバックエンドの基礎を学びます。
   - title: Fullstack(WIP)
     details: Instagramのクローンアプリを作成することで一人でものづくりができるエンジニアを目指します。
-  - title: GraphQL
+  - title: GraphQL(WIP)
     details: おまけです。興味がある人のみ。
 ---
 
