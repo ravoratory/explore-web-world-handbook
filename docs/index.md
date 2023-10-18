@@ -19,8 +19,8 @@ features:
   - title: Basic Linux
     details: Linux(特にUbuntu)環境における基本事項を学びます。
     link: /linux/
-  - title: Basic Git
-    details: Gitの基礎を学びます。
+  - title: Appendix Git
+    details: Gitの補足的知識を身につけます。
     link: /git/
   - title: Basic Web
     details: ステータスコードやURLなどWebの基本的事項を学びます。
